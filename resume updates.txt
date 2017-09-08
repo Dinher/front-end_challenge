@@ -1,0 +1,34 @@
+Reading With Austen - Application Developer
+Berney Centre, MgGill University
+June 2017 - Present
+- Designing architecture for virtual library
+- Implementing a RESTful node.js application with a Postgres database
+- Soft deployment on Heroku hosting
+- Live modification of database objects
+- Custom front-end framework for displaying book images and information
+- Client side queryable database
+- Optimization of application resources, speed, weights
+
+
+
+INMR.com - Webmaster, Web Developer, IT
+INMR Quarterly Review Magazine
+June 2017 - Present
+- Management of Wordpress sites
+- Custom WP functions, designer trouble shooting
+- hosting management, site health and integrity
+- 
+
+
+
+// Hackathon projects
+- Real-time drawing guessing game using Websockets
+	- one user draws on a canvas
+	- others are in a chat and type out guesses
+	- points are awarded by first to type out and time
+	- how to prevent user from cheaating?
+- pizza choosing app
+	- web sockets so multiple people can help choose toppings
+	- add their own dietary restrictions
+	- add to order and help choose toppings
+	- vote button when all is good
